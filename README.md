@@ -1,5 +1,6 @@
 # avirallab1
 
+```javascript
 const Cars = [
    {'Manufacture Company' : 'Dodge', 'Model' : 'Challenger', 'Price in $' : 32595 },
    {'Manufacture Company' : 'BMW', 'Model' : '5 series Active hybrid', 'Price in $' : 62100 },
@@ -7,4 +8,4 @@ const Cars = [
 ];
 
 console.table(cars);
-
+```
